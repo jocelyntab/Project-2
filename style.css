@@ -40,7 +40,7 @@ header {
   -moz-transition: background-color 0.2s ease-in;
   transition: background-color 0.2s ease-in;
   cursor: pointer;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 .main-nav li a {
@@ -182,6 +182,13 @@ footer .name-wrapper .back-top {
     float: right;
     width: 50%;
     text-align: left;
+  }
+
+  .name,
+  .main-nav ul {
+    float: left;
+    width: 50%;
+    text-align: center;
   }
 
   .wrapper {
