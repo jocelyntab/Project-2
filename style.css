@@ -40,7 +40,11 @@ header {
   -moz-transition: background-color 0.2s ease-in;
   transition: background-color 0.2s ease-in;
   cursor: pointer;
+<<<<<<< HEAD
   /* display: inline-block; */
+=======
+  display: inline-block;
+>>>>>>> 1f3207c7a13e5a84b8d09ecc44070a39bf37b97c
 }
 
 .main-nav li a {
